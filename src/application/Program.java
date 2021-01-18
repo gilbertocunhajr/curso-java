@@ -64,6 +64,8 @@ public class Program {
 		int month = 1 + cal1.get(Calendar.MONTH);
 		System.out.println("Minutes: " + minutes);
 		System.out.println("Month: " + month);
+		System.out.println("teste " + month);
+
 
 	}
 
