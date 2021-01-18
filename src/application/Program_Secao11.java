@@ -7,7 +7,7 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.TimeZone;
 
-public class Program {
+public class Program_Secao11 {
 
 	public static void main(String[] args) throws ParseException {
 		
